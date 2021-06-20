@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deeplaxmi
 - 👀 I’m interested in Full-Stack Development
-- 🌱 I’m currently learning Back-end Development
+- 🌱 I’m currently learning SpringBoot
 - 💞️ I’m looking to collaborate on full-stack development  projects
 - 📫 How to reach me - https://www.linkedin.com/in/deeplaxmi-lambture/
 
