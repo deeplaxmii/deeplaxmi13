@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Deeplaxmi
-- 👀 I’m interested in Full-Stack Development
+- 👀 Devops Developer
 - 🌱 I’m currently learning SpringBoot
-- 💞️ I’m looking to collaborate on full-stack development  projects
-- 📫 How to reach me - https://www.linkedin.com/in/deeplaxmi-lambture/
+- 💞️ I’m looking to collaborate on Devops projects
+- 📫 How to reach me - https://www.linkedin.com/in/deeplaxmilambture/
 
 <!---
 deeplaxmi13/deeplaxmi13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
