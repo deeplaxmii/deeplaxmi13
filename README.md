@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Deeplaxmi
-- 👀 Devops Developer
+- 👀 Devops/Spring Developer
 - 🌱 I’m currently learning SpringBoot
 - 💞️ I’m looking to collaborate on Devops projects
 - 📫 How to reach me - https://www.linkedin.com/in/deeplaxmilambture/
